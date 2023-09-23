@@ -9,6 +9,8 @@
 
 - 📫 Conéctate conmigo: **jeffreymaestre@gmail.com**
 
+- 🌱 Actualmente estoy aprendiendo **Inglés y Patrones de diseño**
+
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeffreymaestre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffreymaestre" height="30" width="40" /></a>
