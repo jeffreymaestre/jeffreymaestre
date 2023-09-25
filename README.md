@@ -11,6 +11,8 @@
 
 - 🌱 Actualmente estoy aprendiendo **Inglés y Patrones de diseño**
 
+- 📄 Conoce mis experiencias [Curriculum Vitae](https://drive.google.com/file/d/1whktGcN5-Zeocoow3sfkO6ijSIXCyvnd/view?usp=sharing)
+
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jeffreymaestre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeffreymaestre" height="30" width="40" /></a>
