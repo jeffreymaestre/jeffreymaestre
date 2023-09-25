@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos mis proyectos disponibles: [https://github.com/jeffreymaestre](https://github.com/jeffreymaestre)
 
-- 📫 Conéctate conmigo: **jeffreymaestre@gmail.com**
+- 📫 Cómo contactarme: **jeffreymaestre@gmail.com**
 
 - 🌱 Actualmente estoy aprendiendo **Inglés y Patrones de diseño**
 
